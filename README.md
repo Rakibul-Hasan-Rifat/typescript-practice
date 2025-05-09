@@ -37,7 +37,8 @@ interface Obj {
     // .....
 }
 ```
-
+---
+ 
 
 ## An example of Union and Intersection types in TypeScript
 
