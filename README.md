@@ -1,4 +1,4 @@
-##Differences between 'interface' and 'type' in TypeScript
+## Differences between 'interface' and 'type' in TypeScript
 
 - interface is used without '=' (equal sign) but type is used with '=' (equal sign)
 ```typescript
